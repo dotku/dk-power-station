@@ -38,7 +38,6 @@
 | Shenzhen Manke Electronic Co., Ltd. |
 | Shenzhen Vintage Sign Co., Ltd. |
 | Shenzhen ShineLong Technology Corp., Ltd. |
-| Shenzhen Cosun Sign Smart-Tech Co., Ltd. |
 | Ningbo Kibor Wire & Cable Co., Ltd. |
 | Zhongshan Hejia Electrical Industrial Co., Ltd |
 | IBE Electronics CO., LTD |
@@ -55,10 +54,9 @@
 | Shenzhen Xinspower Technology Co., Ltd |
 | Shanghai Screw Compressor Co., Ltd. |
 | Dongguan MLF Tech Co., Ltd. |
-| Abel Energy Sourcing Company  |
+| Abel Energy Sourcing Company |
 | Aichie Tech Electronics Co., Ltd. |
 | Shenzhen LC Sign Co., Ltd. |
-| Shenzhen JZD Wire & Cable Co., Ltd. |
 | Shaoxing Contuo Transmission Technology Co., Ltd. |
 | Xinxiang Xinke Protective Technology Co., Ltd. |
 | Ningbo Holden Cable Co., Ltd. |
@@ -75,7 +73,6 @@
 | Shanghai Aiyinbeike International Trade Co., Ltd. |
 | Shenzhen Senyan Circuit Co., Ltd. |
 | Shenzhen Yaorong Technology Co., Ltd. |
-| Shenzhen Cosun Sign Smart-Tech Co., Ltd. |
 | Danyang Winpower Wire & Cable Mfg Co., Ltd. |
 | Sunyu Display Product Co., Ltd. |
 | Jiangxi Weiqi Electric Co., Ltd. |
